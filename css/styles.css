@@ -116,11 +116,12 @@ h3 {
 .contact-me{
 
     margin: 50px auto 100px;
+    position: relative;
 }
 
 .copyright{
     color:#eee4e1;
-    font-size: 10px;
+    font-size: 0.625rem;;
 }
 .btn {
     background: #11ebca;
@@ -149,4 +150,7 @@ h3 {
   }
   .subtitle{
     margin:10px auto;
+  }
+ .middle-container{
+    position: relative;
   }
